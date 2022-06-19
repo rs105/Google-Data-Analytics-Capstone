@@ -22,4 +22,4 @@ To Analyze FitBit Fitness tracker app data, to derive insights from analyzing us
 Python and libraries (pandas, matplotlib) for Data Cleaning, Data Transformation, Data Analysis and Data Visualization
 
 ### Data Set
-The used data set is publicly availabe in Kaggle: https://www.kaggle.com/datasets/arashnic/fitbit
+The data set used is publicly availabe in Kaggle: https://www.kaggle.com/datasets/arashnic/fitbit
